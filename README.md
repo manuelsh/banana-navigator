@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo contains the implementation of a deep reinforcement learning agent, trained with a deep Q-Network algorithm similar to https://arxiv.org/pdf/1312.5602.pdf. The objective of the agent is to solve one of the Unity's environment, in concrete the "Banana Collector" environment.
+This repository contains the implementation of a deep reinforcement learning agent, trained with a deep Q-Network algorithm similar to the one of the Nature paper [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf). The objective of the agent is to solve one of the Unity's environment, in concrete the "Banana Collector" environment.
 
 ![banana collector environment](https://github.com/manuelsh/banana-navigator/blob/master/images/banana.gif)
 
