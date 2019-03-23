@@ -8,7 +8,7 @@ This repository contains the implementation of a deep reinforcement learning age
 
 In this environment the agent moves to collect bananas. It will receive a positive reward each time the agent collects a yellow banana, and a negative reward if it collects a blue banana. See more information in the section **Environment details**.
 
-We will implement two agents, one contained in the notebook `Navigation.ipynb` where the agent uses as state input the processed information given by the environment (e.g. distance to bananas, speed, direction, etc). Another, implemented in `Navigation_pixels.ipynb` where the agent's input are the pixels of what the agent sees.
+The agent is implemented and trained in the notebook `Navigation.ipynb` where the agent uses as state input the processed information given by the environment (e.g. distance to bananas, speed, direction, etc).
 
 ## Environment details
 
