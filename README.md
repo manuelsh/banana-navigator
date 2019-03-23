@@ -4,7 +4,7 @@
 
 This repo contains the implementation of a deep reinforcement learning agent, trained with a deep Q-Network algorithm similar to https://arxiv.org/pdf/1312.5602.pdf. The objective of the agent is to solve one of the Unity's environment, in concrete the "Banana Collector" environment.
 
-!(https://github.com/manuelsh/banana-navigator/images/banana.gif)
+![banana collector environment](https://github.com/manuelsh/banana-navigator/images/banana.gif)
 
 In this environment the agent moves to collect bananas. It will receive a positive reward each time the agent collects a yellow banana, and a negative reward if it collects a blue banana. See more information in the section **Environment details**.
 
