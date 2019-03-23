@@ -10,6 +10,8 @@ In this environment the agent moves to collect bananas. It will receive a positi
 
 The agent is implemented and trained in the notebook `Navigation.ipynb` where the agent uses as state input the processed information given by the environment (e.g. distance to bananas, speed, direction, etc).
 
+For a report on the results, check the following [link](https://github.com/manuelsh/banana-navigator/blob/master/Report.md).
+
 ## Environment details
 
 The agent will interact with a simplified version of the [Banana Collector environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector).
@@ -90,5 +92,5 @@ Then, place the file in the `p1_navigation/` folder in the DRLND GitHub reposito
 
 # Instructions to train the agent
 
-Once your environment is set-up, just run the notebooks `Navigation.ipynb` or `Navigation_pixels.ipynb`.
+Once your environment is set-up, just run the notebooks `Navigation.ipynb`.
 
