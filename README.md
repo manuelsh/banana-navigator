@@ -16,6 +16,8 @@ For a report on the results, check the following [link](https://github.com/manue
 
 The agent will interact with a simplified version of the [Banana Collector environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector).
 
+The following has been extracted from the materials of the Udacity Deep Reinforcement Learning course.
+
 ### Rewards
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
